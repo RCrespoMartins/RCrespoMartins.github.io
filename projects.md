@@ -2,37 +2,21 @@
 
 layout: page
 
-title: "Projects"
+title: "Personal Projects"
 
 ---
 
 
 
-\# Projects
+## Scientific Machine Learning for Wear Modeling
 
 
-
-\## Scientific Machine Learning for Wear Modeling
-
-Developing hybrid mechanistic–ML models to predict wear under limited-data conditions.
+## Lubricant Database
 
 
-
-\## Tribological Coating Performance Database
-
-A structured dataset for analyzing coating behavior under extreme environments.
+## Surface Topography Generator
 
 
-
-\## Surface Topography Benchmarking
-
-Multi-laboratory comparison of topography measurement methods and analysis pipelines.
-
-
-
-\## Mechanochemistry in Sliding Contacts
-
-Experimental and modeling work on reaction pathways activated by shear and pressure.
-
+## Pocket-tribometer
 
 

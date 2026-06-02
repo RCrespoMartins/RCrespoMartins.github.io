@@ -7,25 +7,20 @@ title: "Contact"
 ---
 
 
-
-\# Contact
-
-
-
-\*\*Ricardo Crespo Martins\*\*  
-
+**{{ site.title }}**  
 Leibniz University Hannover  
+Institute of Machine Design and Tribology (IMKT)
 
-Institute of Machine Tools and Production Technology (IWF)
+## Email
+{% for mail in site.contact.emails %}
+- {{ mail }}
+{% endfor %}
 
+## Website
+- [LinkedIn]({{ site.contact.website }})
 
-
-Email: your.email@uni-hannover.de  
-
-GitHub: https://github.com/RCrespoMartins  
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
+## GitHub
+- [{{ site.github_username }}](https://github.com/{{ site.github_username }})
 
 
 

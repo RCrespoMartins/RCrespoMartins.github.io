@@ -1,10 +1,12 @@
----
+\---
 
 layout: page
 
-title: "Research"
+title: "Research Areas"
 
----
+nav\_label: "Research"
+
+\---
 
 
 
@@ -12,7 +14,7 @@ title: "Research"
 
 
 
-My work focuses on understanding and engineering surfaces under mechanical, chemical, and thermal stress.  
+My work focuses on understanding and engineering surfaces under mechanical, chemical, and thermal stress.
 
 I combine \*\*experimental tribology\*\*, \*\*surface characterization\*\*, and \*\*scientific machine learning\*\* to uncover mechanisms that govern friction, wear, and material transformation.
 
@@ -20,49 +22,47 @@ I combine \*\*experimental tribology\*\*, \*\*surface characterization\*\*, and 
 
 \## Mechanochemistry \& Wear
 
-\- Mechanochemical activation during sliding and rolling  
+\- Mechanochemical activation during sliding and rolling
 
-\- Tribofilm formation and degradation  
+\- Tribofilm formation and degradation
 
-\- Mechanically dominated wear modeling  
+\- Mechanically dominated wear modeling
 
-\- Reaction pathways under shear and pressure  
+\- Reaction pathways under shear and pressure
 
 
 
 \## Tribological Coatings
 
-\- Molybdenum-based coatings for extreme environments  
+\- Molybdenum-based coatings for extreme environments
 
-\- Solid lubrication mechanisms  
+\- Solid lubrication mechanisms
 
-\- Microstructure–performance relationships  
+\- Microstructure–performance relationships
 
-\- Coating design for aerospace and energy applications  
+\- Coating design for aerospace and energy applications
 
 
 
 \## Surface Topography \& Contact Mechanics
 
-\- Multi-scale roughness characterization  
+\- Multi-scale roughness characterization
 
-\- Benchmarking topography measurement methods  
+\- Benchmarking topography measurement methods
 
-\- Contact mechanics under boundary lubrication  
+\- Contact mechanics under boundary lubrication
 
-\- Transfer film formation  
+\- Transfer film formation
 
 
 
 \## Scientific Machine Learning
 
-\- Physics-informed ML for materials  
+\- Physics-informed ML for materials
 
-\- Limited-data modeling strategies  
+\- Limited-data modeling strategies
 
-\- Surrogate models for tribological systems  
+\- Surrogate models for tribological systems
 
-\- Hybrid mechanistic–data-driven approaches  
-
-
+\- Hybrid mechanistic–data-driven approaches
 

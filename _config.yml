@@ -19,14 +19,24 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ricardo Crespo Martins
-email: ricardo.crespo.martins@imkt.uni-hannover.de
-description: >- # this means to ignore newlines until "baseurl:"
+
+contact:
+  emails:
+    - martins(at)imkt.uni-hannover.de
+    - ricardo.crespo.martins(at)gmail.com
+  website: https://www.linkedin.com/in/ricardo-crespo-martins/
+
+github_username: RCrespoMartins
+
+description: >-
   Research Assistant in IMKT, Uni Hanover
+
 
 header_pages:
   - research.md
   - publications.md
   - projects.md
+  - blog.md
   - contact.md
 
 # Build settings

@@ -1,0 +1,40 @@
+---
+layout: post
+title: "My First Essay"
+description: "Reflections on research, tribology, and scientific thinking"
+categories: [Essays]
+tags: [tribology, mechanochemistry, research-life]
+---
+
+# Introduction
+
+Start with a short, engaging introduction.  
+Explain the motivation, context, or question you want to explore.
+
+---
+
+# Main Idea
+
+Develop your argument or reflection.  
+Use clear sections, figures, or equations if needed.
+
+---
+
+# Supporting Points
+
+Expand on your reasoning.  
+Bring in examples from your research, literature, or experience.
+
+---
+
+# Conclusion
+
+Summarize your key message.  
+End with a thought-provoking insight or question.
+
+---
+
+# References
+
+- Add references manually  
+- Or link to DOIs, papers, datasets  

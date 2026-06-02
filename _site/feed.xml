@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-16T12:00:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ricardo Crespo Martins</title><subtitle>Research Assistant in IMKT, Uni Hanover</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2026/01/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2026-01-16T11:11:31+01:00</published><updated>2026-01-16T11:11:31+01:00</updated><id>http://localhost:4000/jekyll/update/2026/01/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-03T00:33:39+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ricardo Crespo Martins</title><subtitle>Research Assistant in IMKT, Uni Hanover</subtitle><entry><title type="html">My First Essay</title><link href="http://localhost:4000/essays/2026/06/03/my-first-essay.html" rel="alternate" type="text/html" title="My First Essay" /><published>2026-06-03T00:00:00+02:00</published><updated>2026-06-03T00:00:00+02:00</updated><id>http://localhost:4000/essays/2026/06/03/my-first-essay</id><content type="html" xml:base="http://localhost:4000/essays/2026/06/03/my-first-essay.html"><![CDATA[<h1 id="introduction">Introduction</h1>
+
+<p>Start with a short, engaging introduction.<br />
+Explain the motivation, context, or question you want to explore.</p>
+
+<hr />
+
+<h1 id="main-idea">Main Idea</h1>
+
+<p>Develop your argument or reflection.<br />
+Use clear sections, figures, or equations if needed.</p>
+
+<hr />
+
+<h1 id="supporting-points">Supporting Points</h1>
+
+<p>Expand on your reasoning.<br />
+Bring in examples from your research, literature, or experience.</p>
+
+<hr />
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>Summarize your key message.<br />
+End with a thought-provoking insight or question.</p>
+
+<hr />
+
+<h1 id="references">References</h1>
+
+<ul>
+  <li>Add references manually</li>
+  <li>Or link to DOIs, papers, datasets</li>
+</ul>]]></content><author><name></name></author><category term="Essays" /><category term="tribology" /><category term="mechanochemistry" /><category term="research-life" /><summary type="html"><![CDATA[Reflections on research, tribology, and scientific thinking]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2026/01/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2026-01-16T11:11:31+01:00</published><updated>2026-01-16T11:11:31+01:00</updated><id>http://localhost:4000/jekyll/update/2026/01/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
